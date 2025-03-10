@@ -1,0 +1,29 @@
+﻿@model List<Product>
+@{
+    ViewData["Title"] = "產品列表";
+}
+<h2>產品列表</h2>
+<a href="@Url.Action("Create")" class="btn btn-primary">新增產品</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>產品名稱</th>
+            <th>價格</th>
+            <th>操作</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+                <tr>
+                    <td>@product.Name</td>
+                    <td>@product.Price</td>
+                    <td>
+                        <a href="@Url.Action("Edit", new { id = product.Id })" class="btn btn-warning">編輯</a>
+                        <a href="@Url.Action("Delete", new { id = product.Id })" class="btn btn-danger">刪除</a>
+                    </td>
+                </tr>
+        }
+    </tbody>
+</table>

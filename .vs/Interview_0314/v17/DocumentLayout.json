@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|c:\\users\\bo cheng\\desktop\\interview_0314\\interview_0314\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|solutionrelative:interview_0314\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|c:\\users\\bo cheng\\desktop\\interview_0314\\interview_0314\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|solutionrelative:interview_0314\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|c:\\users\\bo cheng\\desktop\\interview_0314\\interview_0314\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|solutionrelative:interview_0314\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|c:\\users\\bo cheng\\desktop\\interview_0314\\interview_0314\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|solutionrelative:interview_0314\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|c:\\users\\bo cheng\\desktop\\interview_0314\\interview_0314\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|solutionrelative:interview_0314\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|c:\\users\\bo cheng\\desktop\\interview_0314\\interview_0314\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|solutionrelative:interview_0314\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|c:\\users\\bo cheng\\desktop\\interview_0314\\interview_0314\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|solutionrelative:interview_0314\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|c:\\users\\bo cheng\\desktop\\interview_0314\\interview_0314\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|solutionrelative:interview_0314\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|c:\\users\\bo cheng\\desktop\\interview_0314\\interview_0314\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|solutionrelative:interview_0314\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|c:\\users\\bo cheng\\desktop\\interview_0314\\interview_0314\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|solutionrelative:interview_0314\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|c:\\users\\bo cheng\\desktop\\interview_0314\\interview_0314\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|solutionrelative:interview_0314\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|c:\\users\\bo cheng\\desktop\\interview_0314\\interview_0314\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|solutionrelative:interview_0314\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|c:\\users\\bo cheng\\desktop\\interview_0314\\interview_0314\\migrations\\20250307140344_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A507655-740D-4707-8D24-EA28CB4EA177}|Interview_0314\\Interview_0314.csproj|solutionrelative:interview_0314\\migrations\\20250307140344_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Program.cs",
+              "RelativeDocumentMoniker": "Interview_0314\\Program.cs",
+              "ToolTip": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Program.cs",
+              "RelativeToolTip": "Interview_0314\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:57:46.919Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Interview_0314\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Interview_0314\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T13:33:47.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Interview_0314\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Interview_0314\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T13:33:37.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Interview_0314\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Interview_0314\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T13:32:18.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Interview_0314\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Interview_0314\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAzwB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:30:27.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\appsettings.json",
+              "RelativeDocumentMoniker": "Interview_0314\\appsettings.json",
+              "ToolTip": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\appsettings.json",
+              "RelativeToolTip": "Interview_0314\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T13:29:38.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Interview_0314\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Interview_0314\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:29:06.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Interview_0314\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Models\\Product.cs",
+              "RelativeToolTip": "Interview_0314\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:25:09.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Interview_0314\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Interview_0314\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T13:16:04.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Interview_0314\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Interview_0314\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T13:13:53.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250307140344_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Migrations\\20250307140344_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Interview_0314\\Migrations\\20250307140344_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Migrations\\20250307140344_InitialCreate.cs",
+              "RelativeToolTip": "Interview_0314\\Migrations\\20250307140344_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:03:44.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Interview_0314\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Interview_0314\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:07:52.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Interview_0314\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BO CHENG\\Desktop\\Interview_0314\\Interview_0314\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Interview_0314\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T12:59:59.438Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
