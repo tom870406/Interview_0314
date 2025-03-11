@@ -1,0 +1,44 @@
+﻿@model Interview_0314.Models.Team
+
+@{
+    ViewData["Title"] = "隊伍明細";
+}
+
+<h1>隊伍明細</h1>
+
+<div>
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @*@Html.DisplayNameFor(model => model.Name)*@
+            隊伍名稱
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @*@Html.DisplayNameFor(model => model.City)*@
+            城市
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.City)
+        </dd>
+        <dt class = "col-sm-2">
+            @*@Html.DisplayNameFor(model => model.Stadium)*@
+            隊伍主場
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Stadium)
+        </dd>
+        <dt class = "col-sm-2">
+            @*@Html.DisplayNameFor(model => model.FoundedYear)*@
+            成立年分
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.FoundedYear)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">編輯</a> |
+    <a asp-action="Index">回前頁</a>
+</div>

@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Interview_0314.Models.Team>
+
+@{
+    ViewData["Title"] = "隊伍主頁";
+}
+@* 
+<h1>Index</h1>
+ *@
+<p>
+    @* <a asp-action="Create">新增隊伍</a> *@
+    <a href="@Url.Action("Create")" class="btn btn-primary">新增隊伍</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                隊伍名稱
+            </th>
+            <th>
+                隊伍城市
+            </th>
+            <th>
+                隊伍主場
+            </th>
+            <th>
+                創立年份
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.City)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Stadium)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FoundedYear)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">編輯</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">刪除</a>
+            </td>
+        </tr>
+}
+
+    </tbody>
+</table>

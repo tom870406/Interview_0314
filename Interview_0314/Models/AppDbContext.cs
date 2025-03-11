@@ -7,5 +7,6 @@ namespace Interview_0314.Models
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
         public DbSet<Product> Products { get; set; }  // 產品資料表
+        public DbSet<Team> Teams { get; set; }
     }
 }

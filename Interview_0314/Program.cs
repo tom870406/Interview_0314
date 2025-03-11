@@ -11,6 +11,14 @@ builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    var context = services.GetRequiredService<AppDbContext>();
+
+    // 自動執行遷移（適用於 Migration）
+    context.Database.Migrate();
+}
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {

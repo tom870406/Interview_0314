@@ -11,7 +11,7 @@ namespace Interview_0314.Models
         [Key]  // 設為主鍵
         public int Id { get; set; }
 
-        [Required]  // 必填
+        [Required]
         [StringLength(100)]
         public string Name { get; set; }
 
