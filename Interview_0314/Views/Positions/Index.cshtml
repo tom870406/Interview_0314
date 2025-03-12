@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Interview_0314.Models.Position>
+
+@{
+    ViewData["Title"] = "職務管理首頁";
+}
+
+<p>
+    <a href="@Url.Action("Create")" class="btn btn-primary">新增職務</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                隊伍
+            </th>
+            <th>
+                職稱
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>                
+                @Html.DisplayFor(modelItem => item.Team.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">編輯</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">明細</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">刪除</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

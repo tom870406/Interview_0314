@@ -4,11 +4,10 @@
     ViewData["Title"] = "刪除隊伍";
 }
 
-<h1>Delete</h1>
+<h1>刪除隊伍</h1>
 
 <h3>確認刪除此筆資料嗎?</h3>
 <div>
-    <h4>Team</h4>
     <hr />
     <dl class="row">
         <dt class="col-sm-2">
@@ -44,6 +43,6 @@
     <form asp-action="Delete">
         <input type="hidden" asp-for="Id" />
         <input type="submit" value="刪除" class="btn btn-danger" /> |
-        <a asp-action="Index">回前頁</a>
+        <a asp-action="Index">回列表</a>
     </form>
 </div>
