@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Interview_0314.Models.Player>
+
+@{
+    ViewData["Title"] = "成員管理";
+}
+
+<h1>成員管理</h1>
+
+<p>
+    <a href="@Url.Action("Create")" class="btn btn-primary">新增成員</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                姓名
+            </th>
+            <th>
+                圖片
+            </th>
+            <th>
+                隊伍
+            </th>
+            <th>
+                職務
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>                
+                <img src="@item.PhotoPath" alt="Player Photo" style="width: 100px; height: auto;" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Team.City)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Position.Name)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">編輯</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">明細</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">刪除</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

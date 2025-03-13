@@ -6,9 +6,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Interview_0314.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Interview_0314.Controllers
 {
+    [Authorize]
     public class TeamsController : Controller
     {
         private readonly AppDbContext _context;
